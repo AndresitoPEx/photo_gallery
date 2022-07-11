@@ -1,0 +1,13 @@
+
+.col-lg-6{
+    margin-top: 10em;
+    padding: 50px;
+    background-color: #f1f1f1;
+    border: 1px solid #1D89CF;
+}
+.frm_login_email{
+    margin-bottom: 20px;
+}
+.frm_login_pass{
+    margin-bottom: 20px;
+}
