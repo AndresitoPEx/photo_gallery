@@ -12,7 +12,7 @@
         <div class="row">
             <div class="col-md-6 offset-md-3">
                 <h1 class="text-center">New User</h1>
-                <form action="../controlador/new.php" method="post">
+                <form action="../../admin/actions/new.act.php" method="post">
                     <div class="form-group">
                         <label for="name">Name</label>
                         <input type="text" name="name" id="name" class="form-control">
